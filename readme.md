@@ -80,7 +80,7 @@ Handles CRUD operations (Create, Read, Update, Delete) for user data. All action
 - Presents a login form to the user.
 - Users must provide their username and password to log in.
 
-### **user-lidt.jsp**
+### **user-list.jsp**
 - Displays the list of all registered users in the system.
 - Available after successful authentication.
 
